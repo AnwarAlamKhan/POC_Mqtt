@@ -1,7 +1,6 @@
 # MQTT C# Sample
 
-Watch the Tutorial Video:
-https://www.youtube.com/watch?v=7UewJo4zY2k
+
 
 Let us check how to use MQTT in C# .Net. In this video we explain the Step By Step procedures to register the application as a MQTT Client. The application showing in this video is a C# MQTT / MQTT C# Client Example (M2MQTT C# Example).
 
